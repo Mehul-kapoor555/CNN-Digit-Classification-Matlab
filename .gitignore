@@ -1,0 +1,9 @@
+# MATLAB files to ignore
+*.asv
+*.mat
+*.fig
+*.mlx~
+
+# OS files
+.DS_Store
+Thumbs.db
