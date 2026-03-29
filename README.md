@@ -55,6 +55,8 @@ The model is trained using both training and validation datasets.
 * Achieves strong accuracy on test data
 * Demonstrates feature extraction through deep convolution layers
 
+![Test Results](results/results.png)
+
 ---
 
 ## Accuracy
