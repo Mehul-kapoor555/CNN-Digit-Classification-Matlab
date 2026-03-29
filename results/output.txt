@@ -1,5 +1,5 @@
 Training on single CPU.
-Initializing input data normalization.
+Initializing input data normalization. 
 |======================================================================================================================|
 |  Epoch  |  Iteration  |  Time Elapsed  |  Mini-batch  |  Validation  |  Mini-batch  |  Validation  |  Base Learning  |
 |         |             |   (hh:mm:ss)   |   Accuracy   |   Accuracy   |     Loss     |     Loss     |      Rate       |
