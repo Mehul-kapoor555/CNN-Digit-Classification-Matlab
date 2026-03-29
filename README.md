@@ -60,7 +60,7 @@ The model is trained using both training and validation datasets.
 ## Sample Output
 
 ```text id="8qt7qr"
-Test Accuracy: XX%
+Test Accuracy: 98.5%
 ```
 
 ---
