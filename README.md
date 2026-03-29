@@ -42,7 +42,7 @@ The architecture progressively extracts features from input images.
 
 * Dataset: MNIST handwritten digits
 * Optimizer: Stochastic Gradient Descent (SGDM)
-* Epochs: 5
+* Epochs: 3
 * Batch size: 32
 
 The model is trained using both training and validation datasets.
@@ -57,17 +57,24 @@ The model is trained using both training and validation datasets.
 
 ---
 
-## Sample Output
+## Accuracy
 
 ```text id="8qt7qr"
-Test Accuracy: 98.54%
+Test Accuracy: 99.66%
+
 ```
+
+### Output
+
+A detailed output of the MATLAB command line can be seen in `results/output.txt`
 
 ---
 
-## Visualization
+## Training Visualization
 
 The model predicts and visualizes labels for random test images.
+
+![Training Progress](results/training_plot.png)
 
 ---
 
